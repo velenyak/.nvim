@@ -1,0 +1,6 @@
+plugin/packer_compiled.lua
+
+.DS_Store
+
+# Undodir files
+undodir/*
